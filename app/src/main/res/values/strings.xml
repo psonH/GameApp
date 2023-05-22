@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="welcome_msg">Welcome to Priyank and Tushar\'s Game</string>
+    <string name="ok_btn_text">OK</string>
+    <string name="start_game_btn_text">Start Game</string>
+    <string name="show_score_btn_text">Show Score</string>
+    <string name="go_back_btn_text">Go Back</string>
+    <string name="uottawa_logo">uOttawa Logo</string>
+    <string name="questionCounter">Q. No. %d</string>
+    <string name="questionText">Here is the your question?</string>
+    <string name="optionText">Option Text</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="score_title">Your Score</string>
+    <string name="score_text">%d / 4</string>
+    <string name="main_menu">Main Menu</string>
+</resources>
